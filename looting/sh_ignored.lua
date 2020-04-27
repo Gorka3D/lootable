@@ -1,0 +1,4 @@
+--Ignored Items will be set here
+PLUGIN.ignored = {
+	["dildo"] = true,
+}
